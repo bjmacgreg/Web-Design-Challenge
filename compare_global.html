@@ -7,11 +7,13 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <title>WeatherPy: Relative humidity</title>
+    <title>WeatherPy: NH/SH Comparisons</title>
+  
   </head>
   <body>
-    <!-- Navigation bar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  
+     <!-- Navigation bar -->
+     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="#">Navbar</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -53,19 +55,43 @@
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
       </div>
-    </nav>
+    </nav> 
 
-    <h1>Relative humidity</h1>
-  
-    <div class="mx-auto">
-      <figure class="figure">
-        <a href="/Visualizations/Fig2_Humidity_vs_latitude.png">
-        <img src="/Visualizations/Fig2_Humidity_vs_latitude.png" class="img-fluid" alt="Humidity Graph">
-        <figcaption class="figure-caption"> Relative humidity is shown vs. latitude for each city at the time of data retrieval. </figcaption>
-        <figcaption class="figure-caption"> Click for zoomable image. </figcaption>
-      </figure>
-    </div>
-
+    <!-- * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens. -->
+    <!-- **************** -->
+    <!-- Grid with images -->
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h4 class="text-left">Weather conditions at sampling time for selected cities</h4>
+          </div>
+        </div>
+               
+     <!-- Temperature and humidity row -->
+        <div class="row">
+          <div class="col-med-6 col-sm-6 col-xs-3">
+                <h5 class="text-center">Maximum temperature</h5>
+                <img src="/Visualizations/Fig1_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image">
+            </div>            
+            <div class="col-med-6 col-sm-6 col-xs-3"> 
+                <h5 class="text-center">Relative humidity</h5>
+                <img src="/Visualizations/Fig2_Humidity_vs_latitude.png" class="img-fluid" alt="Responsive image">
+            </div>
+      </div>
+    
+      <!-- Cloudiness and wind speed row -->
+      <div class="row">
+        <div class="col-med-6 col-sm-6 col-xs-3">
+            <h5 class="text-center">Cloudiness</h5>           
+            <img src="/Visualizations/Fig3_Cloudiness_vs_latitude.png" class="img-fluid" alt="Responsive image">
+        <!-- </div> -->
+        </div>
+        <div class="col-med-6 col-sm-6 col-xs-3">
+            <h5 class="text-center">Wind speed</h5>            
+            <img src="/Visualizations/Fig4_Wind_speed_vs_latitude.png" class="img-fluid" alt="Responsive image">
+        </div>
+      </div>
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

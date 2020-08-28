@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <title>WeatherPy: Comparisons</title>
+    <title>WeatherPy: NH/SH Comparisons</title>
   
   </head>
   <body>
@@ -39,7 +39,8 @@
               <a class="dropdown-item" href="visualization_page_3.html">Cloudiness</a>
               <a class="dropdown-item" href="visualization_page_4.html">Wind speed</a>
               <div class="dropdown-divider"></div>            
-              <a class="dropdown-item" href="comparisons_page.html">Comparisons</a>
+              <a class="dropdown-item" href="compare_global.html">Global comparisons</a>
+              <a class="dropdown-item" href="compare_NH_SH.html">NH/SH comparisons</a>            
               <div class="dropdown-divider"></div>               
               <a class="dropdown-item" href="data_page.html">Data</a>
 
@@ -61,37 +62,43 @@
     <!-- Grid with images -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
-            <h2>Header</h2>
+          <div class="col-12">
+            <h4 class="text-left">Weather conditions at sampling time for selected cities: North vs. South</h4>
           </div>
         </div>
 
-    <!-- Temperature row -->
+    <!-- Heading row -->
       <div class="row">
-        <div class="col-md-3">
-            <h3>Global</h3>
-          </div>
-          <div class="col-md-3">
-            <h3>Northern hemisphere</h3>
-          </div>
-          <div class="col-md-3">
-            <h3>Southern hemisphere</h3>
-          </div>
+        <div class="col-med-3 col-sm-3 col-xs-6">
+          <h5 class="text-center"></h5>
+        </div>
+        <div class="col-med-3 col-sm-3 col-xs-6">
+          <h5 class="text-center"> Global</h5>
+        </div>
+        <div class="col-med-3 col-sm-3 col-xs-6">
+          <h5 class="text-center">Northern hemisphere</h5>
+        </div>
+        <div class="col-med-3 col-sm-3 col-xs-6">
+          <h5 class="text-center">Southern hemisphere</h5>
+        </div>
           <!-- <div class="col-md-4">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ratione sint ex porro excepturi non dolorum, ullam ea quae vel earum, soluta obcaecati natus. Eligendi iusto accusantium mollitia debitis assumenda!</p>
           </div> -->
-        </div>
+      </div>
         
         
      <!-- Temperature row -->
         <div class="row">
-          <div class="col-md-3">
-            <img src="/Visualizations/Fig1_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image">
+          <div class="col-med-3 col-sm-3 col-xs-6">
+            <h5 class="text-center">Maximum temperature</h5>
           </div>
-          <div class="col-md-3">
+          <div class="col-med-3 col-sm-3 col-xs-6">
+                <img src="/Visualizations/Fig1_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image">
+          </div>
+          <div class="col-med-3 col-sm-3 col-xs-6">
             <img src="/Visualizations/Fig5_NH_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image">
           </div>
-          <div class="col-md-3">
+          <div class="col-med-3 col-sm-3 col-xs-6">
             <img src="/Visualizations/Fig6_SH_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image">
           </div>
           <!-- <div class="col-md-4">
@@ -100,14 +107,18 @@
         </div>
     
       <!-- Humidity row -->
+
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
+          <h5 class="text-center">Relative humidity</h5>
+        </div>
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig2_Humidity_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig7_NH_Humidity_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig8_SH_Humidity_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
         <!-- <div class="col-md-4">
@@ -116,14 +127,18 @@
       </div>
     
       <!-- Cloudiness row -->
+
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
+          <h5 class="text-center">Cloudiness</h5>
+        </div>
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig3_Cloudiness_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig9_NH_Cloudiness_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig10_SH_Cloudiness_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
         <!-- <div class="col-md-4">
@@ -132,14 +147,18 @@
       </div>
 
       <!-- Wind speed row -->
+
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
+          <h5 class="text-center">Wind speed</h5>
+        </div>
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig4_Wind_speed_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig11_NH_Wind_speed_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-3">
+        <div class="col-med-3 col-sm-3 col-xs-6">
           <img src="/Visualizations/Fig12_SH_Wind_speed_vs_latitude.png" class="img-fluid" alt="Responsive image">
         </div>
         <!-- <div class="col-md-4">
