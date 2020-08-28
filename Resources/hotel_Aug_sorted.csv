@@ -1,0 +1,250 @@
+Unnamed: 0,City,Lat,Lon,Temp_C,Feels_like,Temp_min_C,Temp_max_C,Humidity,Wind_speed_mph,Clouds,Country,Time_zone,Hotel
+340,abha,18.22,42.51,26.93,23.21,26.0,28.0,24,3.6,69,SA,10800,Abha Hotel
+560,acari,-15.43,-74.62,16.36,15.83,16.36,16.36,75,1.61,60,PE,-18000,Hospedaje Ximens
+463,adilcevaz,38.8,42.73,20.0,17.61,20.0,20.0,40,2.1,0,TR,10800,Adilcevaz Ogretmen Evi
+80,ahipara,-35.17,173.17,11.21,6.4,11.21,11.21,68,5.42,14,NZ,43200,Ahipara Holiday Park
+159,airai,-8.93,125.41,21.23,19.22,21.23,21.23,52,3.32,100,TL,32400,Juvinal Martin
+150,akdepe,42.06,59.38,25.51,20.5,25.0,26.0,31,6.2,0,TM,18000,Мой дом
+124,aksarka,66.56,67.8,17.52,14.26,17.52,17.52,60,4.6,100,RU,18000,missing value
+326,alexandria,31.22,29.96,28.0,29.09,28.0,28.0,56,2.67,0,EG,7200,Royal Crown Hotel
+336,alice springs,-23.7,133.88,31.0,24.14,31.0,31.0,10,6.2,0,AU,34200,Desert Palms Alice Springs
+374,alihe,50.57,123.72,21.07,20.68,21.07,21.07,57,1.53,87,CN,28800,Alihe Forestry Hotel
+575,alvorada,-12.48,-49.12,23.89,22.1,23.89,23.89,35,1.72,93,BR,-10800,Cristal Plaza Hotel
+464,alyangula,-13.85,136.42,31.0,26.94,31.0,31.0,29,6.2,20,AU,34200,Groote Eylandt Lodge
+290,ambikapur,23.12,83.2,28.05,29.36,28.05,28.05,76,5.95,100,IN,19800,STARiHOTEL Ambikapur
+83,antalaha,-14.9,50.28,23.85,25.05,23.85,23.85,79,3.55,19,MG,10800,Hotel Vitasoa
+238,apostolove,47.66,33.71,20.77,17.09,20.56,21.0,56,6.0,0,UA,10800,Гостиница Приют
+167,arman,59.7,150.17,13.85,11.2,13.85,13.85,48,1.65,100,RU,39600,missing value
+79,arraial do cabo,-22.97,-42.03,19.82,16.42,19.82,19.82,78,7.62,48,BR,-10800,Pousada Porto Praia
+50,asfi,32.3,-9.24,27.45,23.8,27.45,27.45,43,6.89,0,MA,3600,Hôtel Abda
+111,atar,20.52,-13.05,27.26,26.86,27.26,27.26,58,4.73,85,MR,0,Oumou Elghoura
+38,atuona,-9.8,-139.03,25.77,26.05,25.77,25.77,76,5.73,13,PF,-34200,Villa Enata
+465,awbari,26.59,12.78,26.43,22.71,26.43,26.43,26,3.82,0,LY,7200,فندق أوباري
+75,awjilah,29.11,21.29,28.04,28.32,28.04,28.04,44,1.72,0,LY,7200,missing value
+386,ayagoz,47.97,80.44,21.35,16.57,21.35,21.35,29,4.58,0,KZ,21600,Gostinitsa Nur
+106,bada,51.39,109.87,22.42,20.65,22.42,22.42,40,1.91,85,RU,32400,Kafe Gostinnitsa
+216,balkhash,46.84,74.98,22.0,17.11,22.0,22.0,30,5.0,100,KZ,21600,Family
+377,bambanglipuro,-7.95,110.28,30.11,26.32,30.11,30.11,51,9.93,31,ID,25200,Puri Brata
+129,bambous virieux,-20.34,57.76,23.16,23.92,22.0,24.44,78,3.6,75,MU,14400,Casa Tia Villa
+355,bandarbeyla,9.49,50.81,30.49,25.01,30.49,30.49,50,12.36,4,SO,10800,REER XOOSHLE GROUP
+301,banjar,-8.19,114.97,29.0,27.36,29.0,29.0,70,9.8,20,ID,28800,The Hamsa Resort
+312,barsovo,61.17,73.17,18.0,16.88,18.0,18.0,63,2.0,40,RU,18000,Baza Otdykha Kordon
+558,batagay-alyta,67.8,130.41,11.02,7.71,11.02,11.02,43,1.67,0,RU,32400,missing value
+63,bathsheba,13.22,-59.52,28.0,29.71,28.0,28.0,78,5.7,40,BB,-14400,Atlantis Hotel
+604,bayanday,53.07,105.51,20.05,16.03,20.05,20.05,52,5.77,96,RU,28800,Guesthouse Nika
+592,belaya gora,68.53,146.42,9.71,5.35,9.71,9.71,50,3.35,100,RU,39600,missing value
+208,beloha,-25.17,45.05,29.08,26.4,29.08,29.08,30,3.78,0,MG,10800,missing value
+564,benjamin constant,-4.38,-70.03,20.49,22.38,20.49,20.49,78,0.42,28,BR,-18000,CASA AVALIADA
+470,bereznik,62.86,42.71,16.3,14.15,16.3,16.3,70,3.46,100,RU,10800,coastal Hotel
+345,beringovskiy,63.05,179.32,11.17,7.39,11.17,11.17,80,4.68,85,RU,43200,Beringgorski
+553,blagoyevo,63.37,47.92,17.52,15.71,17.52,17.52,56,2.15,36,RU,10800,missing value
+88,bluff,-46.6,168.33,7.22,2.19,7.22,7.22,72,4.92,100,NZ,43200,Bluff Homestead - Guesthouse & Campervan Park
+236,bom jesus,-9.07,-44.36,21.11,21.8,21.11,21.11,68,1.3,31,BR,-10800,Hotel Brasão & Floricultura Bella Flor
+362,brae,60.4,-1.35,10.0,5.65,10.0,10.0,71,4.6,90,GB,3600,Busta House Hotel
+496,bratsk,56.13,101.61,22.41,19.71,22.0,22.78,46,4.0,52,RU,28800,Shvedka
+49,bredasdorp,-34.53,20.04,12.0,10.04,12.0,12.0,76,2.1,86,ZA,7200,Bredasdorp Country Manor
+51,bubaque,11.28,-15.83,26.75,28.95,26.75,26.75,79,4.19,100,GW,0,Casa Dora
+550,bulgan,48.81,103.53,19.76,18.28,19.76,19.76,62,3.12,100,MN,28800,Bulgan Hotel
+47,busselton,-33.65,115.33,16.61,16.78,15.56,17.22,72,0.45,94,AU,28800,Observatory Guest House
+467,camacupa,-12.02,17.48,19.52,16.73,19.52,19.52,40,2.54,0,AO,3600,missing value
+350,cangzhou,38.32,116.87,27.82,29.2,27.82,27.82,64,3.57,100,CN,28800,Jinji Express Hotel
+311,cap malheureux,-19.98,57.61,24.44,23.76,24.44,24.44,64,4.47,68,MU,14400,Pereybere Hotel & Spa
+123,cape town,-33.93,18.42,12.65,6.09,11.67,13.89,66,8.2,20,ZA,7200,Southern Sun Waterfront Cape Town
+153,caravelas,-17.71,-39.25,19.2,17.11,19.2,19.2,76,5.22,2,BR,-10800,Pousada dos Navegantes
+307,carnarvon,-24.87,113.63,23.0,17.02,23.0,23.0,49,9.3,55,AU,28800,Hospitality Carnarvon
+466,catamarca,-28.47,-65.79,10.0,7.34,10.0,10.0,64,1.79,0,AR,-10800,Amerian Catamarca Park Hotel
+511,chegutu,-18.13,30.14,24.16,21.75,24.16,24.16,34,2.54,76,ZW,7200,Jacaranda Lodge
+469,chinsali,-10.54,32.08,25.38,24.49,25.38,25.38,42,1.96,0,ZM,7200,Mwiluzi Motel Chinsali Ltd
+10,chokurdakh,70.63,147.92,6.33,2.52,6.33,6.33,78,3.24,100,RU,39600,missing value
+157,clyde river,70.47,-68.59,5.28,1.47,5.28,5.28,74,2.83,0,CA,-14400,Qamaq Hotel
+351,cockburn town,21.46,-71.14,28.3,28.68,28.3,28.3,80,8.2,0,TC,-14400,Osprey Beach Hotel
+186,codrington,-38.27,141.97,11.15,8.93,11.15,11.15,75,2.13,100,AU,36000,Codrington Gardens Bed And Breakfast
+212,comodoro rivadavia,-45.87,-67.5,2.0,-1.79,2.0,2.0,72,2.1,100,AR,-10800,Austral Hotel
+409,dali,25.7,100.18,27.24,26.91,27.24,27.24,44,2.23,0,CN,28800,Dali Travelling With Hostel
+118,damghan,36.17,54.35,21.75,18.48,21.75,21.75,25,2.02,0,IR,16200,خوابگاه اساتيد دانشگاه دامغان
+428,derbent,42.07,48.29,24.29,22.95,24.29,24.29,51,3.48,0,RU,10800,Elit
+605,derzhavinsk,51.1,66.32,25.32,21.4,25.32,25.32,39,5.81,0,KZ,21600,Ooo.khim Baza
+378,dunedin,-45.87,170.5,10.05,7.46,9.44,10.56,50,0.89,100,NZ,43200,Scenic Hotel Southern Cross
+447,durusu,41.31,28.68,24.89,23.58,24.0,25.56,78,7.7,40,TR,10800,Çınar Pansiyon
+277,dutlwe,-23.98,23.9,21.84,15.34,21.84,21.84,21,6.15,0,BW,7200,missing value
+264,egra,50.08,12.37,19.12,16.55,18.89,19.44,59,4.1,20,CZ,7200,Hotel Barbarossa
+184,esmeraldas,-19.76,-44.31,10.0,6.0,9.0,11.0,71,4.1,23,BR,-10800,Hotel Fazenda Lagoa Azul
+320,esperance,-33.87,121.9,18.0,15.75,18.0,18.0,68,4.1,90,AU,28800,Hospitality Esperance
+593,evensk,61.95,159.23,10.59,7.57,10.59,10.59,54,1.84,0,RU,39600,missing value
+456,faya,18.39,42.45,27.0,23.29,26.0,28.0,24,3.6,71,SA,10800,مقبرة ال مجمل
+98,filingue,14.35,3.32,26.08,27.84,26.08,26.08,76,3.83,82,NE,3600,missing value
+244,flinders,-34.58,150.86,14.44,11.18,14.44,14.44,60,3.58,0,AU,36000,Shellharbour Resort & Conference Centre
+70,fort frances,48.6,-93.4,19.07,16.79,18.89,19.44,68,4.6,90,CA,-18000,LA PLACE RENDEZ-VOUS
+584,gamboma,-1.88,15.86,26.41,28.71,26.41,26.41,69,2.17,66,CG,3600,Hotel Vianette
+76,gazli,40.13,63.45,27.94,22.96,27.94,27.94,25,5.83,0,UZ,18000,missing value
+406,ginir,7.13,40.7,20.58,19.71,20.58,20.58,62,2.59,25,ET,10800,Sura Dare Village
+23,gisborne,-38.65,178.0,7.78,5.8,7.78,7.78,76,0.89,44,NZ,43200,ASURE Alfresco Motor Lodge
+40,gorkovskiy,45.65,41.2,26.43,23.85,26.43,26.43,27,2.34,0,RU,10800,missing value
+410,grand gaube,-20.01,57.66,24.44,23.76,24.44,24.44,64,4.47,74,MU,14400,Veranda Paul et Virginie Hotel & Spa
+84,grindavik,63.84,-22.43,9.0,6.82,9.0,9.0,76,1.5,75,IS,0,Northern Light Inn & Max's Restaurant
+513,havre,49.58,0.33,16.38,8.89,16.0,17.0,72,11.3,90,FR,7200,gite bois jourdain
+271,hervey bay,-25.3,152.85,21.76,16.6,21.67,22.0,33,5.7,0,AU,36000,Shelly Bay Resort
+30,hobart,-42.88,147.33,12.68,5.42,11.67,14.0,44,7.7,75,AU,36000,St Ives Apartments
+526,hofn,64.25,-15.21,10.28,9.16,10.28,10.28,76,0.36,0,IS,0,Hótel Höfn
+257,invercargill,-46.4,168.35,7.22,2.19,7.22,7.22,72,4.92,100,NZ,43200,Balmoral Lodge Motel
+242,iquique,-20.22,-70.14,16.0,14.79,16.0,16.0,77,2.6,90,CL,-14400,Backpacker`s Hostel Iquique
+188,itainopolis,-7.45,-41.48,21.24,21.43,21.24,21.24,74,2.79,0,BR,-10800,Pousada Posto Club Frank Aguiar
+292,jalu,29.03,21.55,28.73,29.03,28.73,28.73,42,1.64,0,LY,7200,Jalu Hotel
+337,jijiga,9.35,42.8,20.71,16.6,20.71,20.71,65,7.62,42,ET,10800,RAMAAS HOTEL
+224,joshimath,30.57,79.57,24.65,23.94,24.65,24.65,54,3.17,66,IN,19800,Shivalik Camps & Resort
+527,kaduqli,11.02,29.72,26.33,29.72,26.33,26.33,79,2.17,100,SD,7200,فندق الله جابو
+162,kaitangata,-46.28,169.85,9.44,4.1,9.44,9.44,54,4.92,100,NZ,43200,Kaitangata Motor Camp
+229,kambove,-10.88,26.6,24.0,21.69,24.0,24.0,35,2.49,9,CD,7200,Couvant des soeurs catholiques
+219,kamskiye polyany,55.43,51.42,20.0,19.83,20.0,20.0,77,3.0,20,RU,10800,missing value
+289,karratha,-20.74,116.85,32.16,28.65,32.16,32.16,21,4.04,0,AU,28800,ibis Styles Karratha
+492,katangli,51.71,143.23,19.34,16.3,19.34,19.34,67,5.7,1,RU,39600,missing value
+601,katherine,-14.47,132.27,35.0,25.6,35.0,35.0,6,9.3,0,AU,34200,Pine Tree Motel
+0,khatanga,71.97,102.5,22.65,19.92,22.65,22.65,39,3.23,47,RU,25200,"Gostinitsa ""Zapolyar'ye"""
+310,kijang,35.24,129.21,31.0,29.89,31.0,31.0,66,9.8,75,KR,32400,Brown Dot Gijang Yeonhwari
+405,kilindoni,-7.91,39.67,25.51,26.88,25.51,25.51,76,3.99,34,TZ,10800,Bustani B&B
+613,klyuchi,52.27,79.17,20.83,16.86,20.83,20.83,44,5.05,100,RU,25200,Vesolaya Mayovka
+266,komsomolskiy,40.43,71.72,26.0,21.27,26.0,26.0,39,7.2,100,UZ,18000,Ikathouse
+281,korla,41.76,86.15,35.79,29.11,35.79,35.79,13,7.41,2,CN,28800,Gulisitan Hotel
+591,koslan,63.46,48.9,17.46,15.48,17.46,17.46,53,2.08,0,RU,10800,missing value
+42,kozhevnikovo,56.26,83.97,17.78,14.88,17.78,17.78,62,4.36,99,RU,25200,"Gostinitsa ""Ot zakata do rassveta"""
+341,krasnyy oktyabr,56.12,38.88,18.59,16.53,18.59,18.59,75,4.79,100,RU,10800,Priozernaya Hotel
+299,krasnyy yar,46.53,48.35,25.86,21.79,25.0,26.67,44,7.0,0,RU,14400,Cottege near Ufa
+523,kropotkin,45.44,40.58,27.07,23.97,27.07,27.07,28,3.42,0,RU,10800,Hotel Europe Kropotkin
+3,kruisfontein,-34.0,24.73,14.44,14.04,14.44,14.44,78,0.89,52,ZA,7200,Oyster Bay House Rental
+265,kupang,-10.17,123.58,32.0,25.6,32.0,32.0,33,10.8,20,ID,28800,Sylvia Hotel Premier Kupang
+15,kuusamo,65.97,29.18,12.0,8.18,12.0,12.0,66,4.1,57,FI,10800,Hotel Kuusanka
+497,lazurne,46.08,32.53,22.0,19.72,21.0,22.78,60,5.0,56,UA,10800,New Manna Hostel
+373,leshukonskoye,64.9,45.76,16.13,13.8,16.13,16.13,53,2.18,15,RU,10800,Gostinitsa Mup Zhkkh
+59,lichuan,30.3,108.85,27.57,26.84,27.57,27.57,46,3.3,1,CN,28800,Yicheng Hotel
+491,lithakia,37.72,20.83,26.0,29.83,26.0,26.0,74,0.5,20,GR,10800,Zante Plaza Hotel & Apartments
+58,longyearbyen,78.22,15.64,5.0,0.08,5.0,5.0,80,4.6,40,SJ,7200,"Radisson Blu Polar Hotel, Spitsbergen"
+64,lydenburg,-25.1,30.46,16.16,13.19,13.89,21.11,31,1.21,0,ZA,7200,The Palms Boutique Hotel
+31,mahebourg,-20.41,57.7,22.0,22.27,22.0,22.0,78,3.6,75,MU,14400,Le Peninsula Bay Beach Resort & Spa
+112,mandalgovi,45.76,106.27,28.47,20.2,28.47,28.47,18,9.38,100,MN,28800,В.Ганбат
+557,maneromango,-7.2,38.78,26.0,28.46,26.0,26.0,78,3.1,40,TZ,10800,missing value
+169,maniitsoq,65.42,-52.9,7.71,5.39,7.71,7.71,76,1.36,0,GL,-7200,Hotel Heilmann Lyberth
+252,maromitsa,59.87,48.01,19.26,17.74,19.26,19.26,63,3.08,100,RU,10800,missing value
+443,maryborough,-25.53,152.7,18.05,15.77,18.05,18.05,56,2.99,15,AU,36000,Blue Shades Motel
+103,mataura,-46.19,168.86,7.22,2.19,7.22,7.22,72,4.92,100,NZ,43200,Ellie's Villa
+452,mezhova,48.25,36.73,24.1,21.49,24.1,24.1,38,3.38,100,UA,10800,missing value
+94,miguel hidalgo,19.42,-99.2,15.27,12.8,14.0,16.0,77,4.1,40,MX,-18000,JW Marriott Hotel Mexico City
+74,mikhaylovka,50.06,43.24,26.11,23.91,26.11,26.11,33,2.68,35,RU,14400,5 Komnat
+132,mildura,-34.2,142.15,18.0,14.49,18.0,18.0,34,2.6,49,AU,36000,Mercure Hotel Mildura
+450,mogadishu,2.04,45.34,26.0,26.61,26.0,26.0,74,5.1,75,SO,10800,Hotel Juba
+323,morant bay,17.88,-76.41,26.17,25.84,23.89,28.0,78,7.2,40,JM,-18000,Whispering Bamboo Cove Resort
+218,moree,-29.47,149.85,19.0,14.22,19.0,19.0,24,3.6,0,AU,36000,Molika Springs Motel
+366,morondava,-20.28,44.28,25.91,26.9,25.91,25.91,60,2.3,0,MG,10800,La Case Bambou
+353,mount isa,-20.73,139.5,30.0,23.68,30.0,30.0,12,5.7,0,AU,36000,ibis Styles Mt Isa Verona
+548,murray bridge,-35.12,139.27,17.82,16.23,16.11,20.0,56,1.93,69,AU,34200,Balcony On Sixth Lodge
+352,mvuma,-19.28,30.53,21.4,18.3,21.4,21.4,38,3.27,0,ZW,7200,missing value
+391,mwene-ditu,-7.0,23.45,28.48,28.99,28.48,28.48,44,1.59,0,CD,7200,Hôtel Kamas
+140,naantali,60.47,22.02,12.34,10.88,10.0,14.0,76,1.5,0,FI,10800,Naantali Spa Hotel & Resort
+616,nalut,30.33,10.85,24.4,22.78,24.4,24.4,45,3.07,0,LY,7200,missing value
+237,namibe,-15.2,12.15,19.85,20.03,19.85,19.85,76,2.31,82,AO,3600,Hotel Chik Chik Namibe
+52,narsaq,60.92,-46.05,5.0,2.25,5.0,5.0,80,1.5,40,GL,-7200,Hotel Narsaq
+191,neiafu,-18.65,-173.98,25.0,27.31,25.0,25.0,78,2.6,75,TO,46800,Mystic Sands
+145,new norfolk,-42.78,147.06,10.64,8.15,8.33,12.78,73,2.24,100,AU,36000,The Shingles Riverside Cottages
+318,nhulunbuy,-12.23,136.77,30.0,27.24,30.0,30.0,45,7.2,100,AU,34200,East Arnhem Real Estate
+398,niagara falls,43.1,-79.07,17.94,17.33,17.0,19.44,77,2.6,1,CA,-14400,Sheraton on the Falls Hotel
+280,norman wells,65.28,-126.83,14.0,13.3,14.0,14.0,76,1.0,75,CA,-21600,Heritage Hotel
+28,novopokrovka,49.84,36.55,21.34,18.64,21.0,21.67,49,4.0,98,UA,10800,Пудж дом
+29,nukus,42.45,59.61,25.0,21.15,25.0,25.0,29,4.1,0,UZ,18000,Hotel Jipek Joli
+315,okhotsk,59.38,143.3,11.68,8.54,11.68,11.68,75,3.62,100,RU,36000,missing value
+127,olafsvik,64.89,-23.71,8.7,6.61,8.7,8.7,75,1.25,100,IS,0,Hotel Olafsvik
+130,ossora,59.24,163.07,10.64,5.98,10.64,10.64,61,4.62,100,RU,43200,missing value
+121,ostrovnoy,68.05,39.51,14.53,11.3,14.53,14.53,56,3.26,52,RU,10800,missing value
+166,paamiut,61.99,-49.67,5.84,2.37,5.84,5.84,65,2.07,0,GL,-7200,Yeet Hotel
+232,palana,59.12,159.97,9.3,3.85,9.3,9.3,71,5.99,100,RU,43200,missing value
+413,pangody,65.85,74.49,15.88,14.77,15.88,15.88,65,1.39,18,RU,18000,Elizaveta Shevchuk's House
+614,pato branco,-26.23,-52.67,11.87,9.63,11.87,11.87,75,2.4,0,BR,-10800,Luz Hotel Pato Branco
+13,ponta do sol,32.67,-17.1,23.38,18.02,22.22,25.0,50,8.7,20,PT,3600,Hotel do Campo
+536,ponta pora,-22.54,-55.73,16.97,12.76,16.97,16.97,68,6.48,0,BR,-14400,Hotel Pousada do Bosque
+102,port alfred,-33.59,26.89,15.25,9.64,15.25,15.25,58,7.03,58,ZA,7200,The Halyards Hotel
+445,port elizabeth,-33.92,25.57,15.0,10.14,15.0,15.0,62,6.2,75,ZA,7200,39 On Nile Guest House
+198,port lincoln,-34.73,135.87,18.43,14.86,18.43,18.43,53,4.67,0,AU,34200,Port Lincoln Hotel
+48,porto belo,-27.16,-48.55,13.33,9.92,13.33,13.33,55,3.12,8,BR,-10800,Costa Verde Beach Hotel
+220,porto walter,-8.27,-72.74,19.9,21.12,19.9,19.9,75,0.74,0,BR,-18000,Hotel Silva
+241,prado,-17.34,-39.22,17.38,15.13,17.38,17.38,80,4.97,0,BR,-10800,INN CORNER RIVER - PRADO - BAHIA - HOUSING AND HOTEL
+481,privas,44.58,4.5,18.14,17.52,16.67,18.89,67,1.73,0,FR,7200,"Domaine des loriots : chambres, cabanes et table d'hôtes"
+183,qaqortoq,60.72,-46.03,5.0,2.25,5.0,5.0,80,1.5,40,GL,-7200,Hotel Qaqortoq
+483,qinggang,46.68,126.08,26.78,28.32,26.78,26.78,62,2.34,100,CN,28800,Gold Hotel
+26,rikitea,-23.12,-134.97,20.89,19.96,20.89,20.89,72,3.97,97,PF,-32400,Pension Maro'i
+545,rudbar,30.15,62.6,33.44,26.22,33.44,33.44,17,8.71,0,AF,16200,missing value
+563,rumonge,-3.97,29.44,28.3,27.63,28.3,28.3,39,2.29,0,BI,7200,Iratiro Tours
+388,rusape,-18.53,32.13,22.27,18.56,22.27,22.27,36,4.13,21,ZW,7200,Surrey Lodge
+620,ruteng,-8.61,120.47,23.44,23.76,23.44,23.44,56,1.43,0,ID,28800,Hotel FX72 Ruteng
+172,ruyigi,-3.45,30.32,22.94,19.49,22.94,22.94,39,4.35,7,BI,7200,missing value
+254,saint-denis,48.92,2.33,16.37,12.79,15.0,17.0,72,5.7,75,FR,7200,Appart'City Paris Clichy Mairie - Appart Hôtel
+187,saint-philippe,-21.36,55.77,22.15,20.72,16.67,26.0,50,2.6,40,RE,14400,"Chambres d'hôte ""La Trinité"""
+354,salym,60.06,71.48,18.31,16.46,18.31,18.31,55,2.37,99,RU,18000,Shinomontazh
+468,sampang,-7.19,113.24,30.52,29.97,30.52,30.52,45,4.31,9,ID,25200,sekretariat IKA STAIN
+436,san quintin,30.48,-115.95,22.92,22.7,22.92,22.92,78,4.85,0,MX,-25200,Old Mill Hotel
+258,sangar,63.92,127.47,16.22,12.74,16.22,16.22,34,2.2,0,RU,32400,missing value
+416,sao felix do xingu,-6.64,-51.99,22.17,24.24,22.17,22.17,73,0.49,0,BR,-10800,Apart Hotel Rio Xingu
+321,sao joao da barra,-21.64,-41.05,17.7,14.2,17.7,17.7,79,6.81,18,BR,-10800,Pousada Porto De Canoas
+423,sao miguel do araguaia,-13.28,-50.16,21.49,21.04,21.49,21.49,52,1.2,1,BR,-10800,Hotel Executivo Palace
+209,sarakhs,36.54,61.16,27.0,25.52,27.0,27.0,34,2.1,0,IR,16200,Sarakhs Abrisham Hotel
+99,saskylakh,71.92,114.08,20.63,17.16,20.63,20.63,38,3.59,69,RU,32400,missing value
+359,sawtell,-30.38,153.1,17.49,13.78,15.56,18.33,48,4.1,0,AU,36000,Boambee Waters Caravan Park
+546,serebryansk,49.69,83.29,20.0,19.61,20.0,20.0,56,1.0,40,KZ,21600,"Gostinitsa ""Vodoley"""
+414,shakawe,-18.37,21.85,23.59,19.43,23.59,23.59,20,2.96,0,BW,7200,Ditlhapi Guest House
+73,shirvan,39.95,48.9,27.53,24.4,27.53,27.53,35,4.8,0,AZ,14400,Hotel Empire
+221,sibenik,43.73,15.91,23.56,24.95,23.33,24.0,60,0.5,0,HR,7200,Hotel Jadran
+599,sidney,-33.87,151.21,15.35,9.42,14.44,16.11,48,6.7,0,AU,36000,QT Sydney
+91,slave lake,55.28,-114.77,13.0,11.03,13.0,13.0,71,2.1,1,CA,-21600,Super 8 by Wyndham Slave Lake AB
+54,smirnykh,49.75,142.83,24.64,25.06,24.64,24.64,60,2.43,0,RU,39600,Gorodok
+376,soe,-9.86,124.28,24.52,21.65,24.52,24.52,51,5.76,100,ID,28800,Dena Hotel
+154,sol-iletsk,51.16,54.99,27.18,25.08,27.18,27.18,32,2.71,100,RU,18000,Raduzhnaya
+473,sola,-13.88,167.55,28.0,27.38,28.0,28.0,78,9.02,40,VU,39600,Leumerus Bungalows
+90,solnechnyy,50.72,136.63,21.7,21.88,21.7,21.7,71,2.69,49,RU,36000,Hotel complex Pastoral
+253,sosnovo-ozerskoye,52.52,111.54,17.45,15.34,17.45,17.45,65,3.39,54,RU,28800,missing value
+384,souillac,-20.52,57.52,22.0,22.27,22.0,22.0,78,3.6,75,MU,14400,Bils' Villa
+245,srednekolymsk,67.45,153.68,10.04,4.79,10.04,10.04,58,5.15,95,RU,39600,missing value
+544,sungaipenuh,-2.08,101.38,26.81,28.24,26.81,26.81,54,1.19,92,ID,25200,Hotel Jaya Wisata 2
+346,suntar,62.14,117.63,17.75,13.92,17.75,17.75,29,2.53,0,RU,32400,Gostevoy Dom
+487,surgut,61.25,73.42,18.0,16.88,18.0,18.0,63,2.0,40,RU,18000,Business Hotel
+372,sydney,-33.87,151.21,15.35,9.42,14.44,16.11,48,6.7,0,AU,36000,QT Sydney
+433,tahe,52.33,124.73,18.14,15.75,18.14,18.14,61,3.67,39,CN,28800,塔河宾馆
+272,talnakh,69.49,88.4,18.0,16.18,18.0,18.0,63,3.0,13,RU,25200,Talnakh Hotel
+222,tasiilaq,65.61,-37.64,3.0,0.15,3.0,3.0,74,1.0,0,GL,-7200,The Red House
+108,teya,60.38,92.63,20.66,20.04,20.66,20.66,55,1.47,100,RU,25200,missing value
+304,thaba-tseka,-29.52,28.61,11.74,9.0,11.74,11.74,38,0.67,96,LS,7200,Motherland Guesthouse
+477,tias,28.96,-13.64,26.0,28.36,26.0,26.0,74,2.6,6,ES,3600,Hotel Beatriz Playa & SPA
+603,tigzirt,36.89,4.12,28.79,28.34,28.79,28.79,39,2.18,0,DZ,3600,Appartement de la plage
+572,tiksi,71.69,128.87,6.19,2.09,6.19,6.19,67,3.13,30,RU,32400,Arktika
+382,tilichiki,60.47,166.1,11.2,9.09,11.2,11.2,63,1.25,90,RU,43200,missing value
+5,tiznit,29.58,-9.5,32.87,29.03,32.87,32.87,14,3.05,10,MA,3600,missing value
+571,tlapacoyan,19.97,-97.22,22.34,24.67,22.34,22.34,80,1.11,100,MX,-18000,Hotel San Diego
+472,tuatapere,-46.13,167.68,7.22,2.19,7.22,7.22,72,4.92,100,NZ,43200,Ron and Tony's Bed & Breakfast
+193,udachnyy,66.42,112.4,19.0,15.7,19.0,19.0,29,2.0,0,RU,32400,Gostinitsa Vilyuy
+284,udarnyy,54.34,42.86,22.96,20.38,22.96,22.96,49,4.43,96,RU,10800,missing value
+170,ugoofaaru,5.67,73.0,28.48,29.43,28.48,28.48,72,6.08,100,MV,18000,Ungoofaaru Inn
+547,ulaanbaatar,47.91,106.88,21.0,14.71,21.0,21.0,49,9.0,75,MN,28800,The Blue Sky Hotel and Tower
+322,ulladulla,-35.35,150.47,14.05,9.52,12.22,15.0,51,4.6,0,AU,36000,Sandpiper Motel
+582,upington,-28.45,21.26,10.0,6.3,10.0,10.0,61,3.1,3,ZA,7200,River Place Manor
+606,urengoy,65.97,78.37,18.31,16.51,18.31,18.31,58,2.6,0,RU,18000,Gostinnitsa Medveditsa
+164,urzhum,57.11,50.0,21.2,20.63,21.2,21.2,64,2.67,99,RU,10800,Morning Hotel
+9,ushuaia,-54.8,-68.3,4.0,-2.1,4.0,4.0,55,5.1,75,AR,-10800,Albatros Hotel
+199,usolye,59.43,56.68,17.99,16.85,17.99,17.99,72,2.9,34,RU,18000,Khostel
+260,vagur,61.47,-6.81,9.15,4.18,9.15,9.15,75,5.48,88,FO,3600,Vestmanna Hostel
+541,vallenar,-28.57,-70.76,8.52,6.49,8.52,8.52,75,1.11,0,CL,-14400,Humacao Bed & Breakfast
+259,vao,-22.67,167.48,19.83,15.34,19.83,19.83,67,7.99,100,NC,39600,Hotel Kou-Bugny
+285,vardo,70.37,31.11,9.51,7.44,8.0,11.0,76,1.5,10,NO,7200,Vardø Hotel AS
+417,veraval,20.9,70.37,29.01,29.35,29.01,29.01,76,8.11,29,IN,19800,Lords Inn Somnath
+396,vila velha,-20.33,-40.29,19.42,14.48,18.89,20.0,60,7.7,26,BR,-10800,Hotel Vitória Palace
+446,vizinga,61.07,50.1,18.35,17.41,18.35,18.35,65,2.08,100,RU,10800,"Gostinitsa ""Nadezhda"""
+247,vostok,46.49,135.88,24.16,24.9,24.16,24.16,63,2.15,99,RU,36000,missing value
+493,waitati,-45.75,170.57,9.97,7.82,9.44,10.56,69,1.34,100,NZ,43200,Arden Country House Dunedin
+598,whitehorse,60.72,-135.05,9.19,5.04,7.78,10.0,71,4.1,40,CA,-25200,Westmark Hotel
+33,wote,-1.78,37.63,23.14,21.16,23.14,23.14,46,3.24,11,KE,10800,Midways Hotel
+113,wufeng,27.45,104.83,23.94,23.88,23.94,23.94,52,1.64,0,CN,28800,中山宾馆
+529,xining,36.62,101.77,26.23,24.16,26.23,26.23,23,0.93,0,CN,28800,Super Leisure Hotel
+538,xuddur,4.12,43.89,28.54,24.39,28.54,28.54,47,8.83,0,SO,10800,Banjanay Hotel
+612,yerofey pavlovich,53.97,121.97,18.3,14.51,18.3,18.3,40,3.65,1,RU,32400,lounges and warm parking
+580,yongan,39.7,113.69,25.15,24.72,25.15,25.15,47,1.96,80,CN,28800,Beiyue International Hotel
+230,yulara,-25.24,130.99,33.0,25.8,33.0,33.0,9,6.7,0,AU,34200,Desert Gardens Hotel - Ayers Rock Resort
+543,yumen,40.28,97.2,33.79,24.97,33.79,33.79,13,10.09,0,CN,28800,missing value
+559,zaritap,39.64,45.51,22.0,19.58,22.0,22.0,35,2.1,0,AM,14400,հովիվի կացարան՝shepherd's shelter՝постушье укрытие
+369,zhanakorgan,43.91,67.25,25.25,18.43,25.25,25.25,31,8.72,71,KZ,18000,"""Ақпалас"" қонақ үйі"
+160,zhanaozen,43.3,52.8,26.89,23.82,26.89,26.89,22,2.34,0,KZ,18000,K.korabay 28A
+379,zhangjiakou,40.81,114.88,28.99,28.19,28.99,28.99,43,3.52,0,CN,28800,Shell Zhangjiakou City Qiaodong District Ginza Hotel
