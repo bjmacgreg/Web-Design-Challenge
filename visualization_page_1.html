@@ -44,10 +44,6 @@
         </li>
 
       </ul>
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
     </div>
   </nav>
 
@@ -55,9 +51,8 @@
     <div class="row">
       <div class="col-12">
 
-
+     <!-- Image -->
         <h2>Maximum temperatures</h2>
-    <!-- <img src="/Visualizations/Fig1_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image"> -->
            <div class="mx-auto">
               <figure class="figure">
                 <a href="/Visualizations/Fig1_Max_temp_vs_latitude.png">
@@ -65,6 +60,13 @@
                 <figcaption class="figure-caption"> Maximum temperatures are shown vs. latitude for each city at the time of data retrieval. </figcaption>
                 <figcaption class="figure-caption"> Click for zoomable image. </figcaption>
               </figure>
+              <!-- Patented dumb trick for turning blue text black: -->
+              <a href="https://pypi.python.org/pypi/citipy/"></a> 
+              <p>It is (surprise!) generally warmer near the equator, with a decent r^2 value. As we are in SH winter, the temperature there drops off more quickly (the slope is steeper) 
+                moving poleward. The most extreme high temperatures are found in the NH, but at least in this sample they are not directly at the equator. I think I will skip the 
+                Earth Sciences digression, but this is also not unexpected. A straight line is probably not the best fit. The greater poleward extent of the NH data is likely a 
+                consequence of the distribution of cities on Earth.</p>
+
           </div>
         </div>
       </div>

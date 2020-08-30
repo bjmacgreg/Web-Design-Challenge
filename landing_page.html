@@ -7,138 +7,144 @@
 
     <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-        <!-- https://www.tutorialspoint.com/online_html_editor.php -->
-        <!-- <style>
-            .demo {
-               overflow: hidden;
-               background-color: blue;
-            }
-            .demo a {
-               float: left;
-               display: block;
-               color: white;
-               text-align: center;
-               padding: 10px;
-               text-decoration: none;
-            }
-            @media screen and (max-width: 600px) {
-               .demo a {
-                  float: none;
-                  width: 100%;
-               }
-            }
-         </style> -->
          <title>WeatherPy: Introduction</title>
-        </head>
-    <body>
+    </head>
+<body>
 <!-- Navigation bar -->
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="landing_page.html">Home <span class="sr-only">(current)</span></a>
-        </li>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+            <a class="nav-link" href="landing_page.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="landing_page.html">Introduction</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="visualization_page_1.html">Maximum temperature</a>
+                <a class="dropdown-item" href="visualization_page_2.html">Relative humidity</a>
+                <a class="dropdown-item" href="visualization_page_3.html">Cloudiness</a>
+                <a class="dropdown-item" href="visualization_page_4.html">Wind speed</a>
+                <div class="dropdown-divider"></div>            
+                <a class="dropdown-item" href="compare_global.html">Global comparisons</a>
+                <a class="dropdown-item" href="compare_NH_SH.html">NH/SH comparisons</a>            
+                <div class="dropdown-divider"></div>               
+                <a class="dropdown-item" href="data_page.html">Data</a>
+            </div>
+            </li>
+        </ul>
+    </nav>
 
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Dropdown
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="landing_page.html">Introduction</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="visualization_page_1.html">Maximum temperature</a>
-            <a class="dropdown-item" href="visualization_page_2.html">Relative humidity</a>
-            <a class="dropdown-item" href="visualization_page_3.html">Cloudiness</a>
-            <a class="dropdown-item" href="visualization_page_4.html">Wind speed</a>
-            <div class="dropdown-divider"></div>            
-            <a class="dropdown-item" href="compare_global.html">Global comparisons</a>
-            <a class="dropdown-item" href="compare_NH_SH.html">NH/SH comparisons</a>            
-            <div class="dropdown-divider"></div>               
-            <a class="dropdown-item" href="data_page.html">Data</a>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                <div class="sidebar-sticky pt-3">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#">
+                                <a href="visualization_page_1.html">
+                                    Maximum temperature <span class="sr-only">(current)</span>
+                                    <img src="/Visualizations/Fig1_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image">
+                                </a>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <a href="visualization_page_2.html">
+                                    Relative humidity
+                                    <img src="/Visualizations/Fig2_Humidity_vs_latitude.png" class="img-fluid" alt="Responsive image">
+                                </a>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <a href="visualization_page_3.html">
+                                    Cloudiness
+                                    <img src="/Visualizations/Fig3_Cloudiness_vs_latitude.png" class="img-fluid" alt="Responsive image">
+                                </a>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <a href="visualization_page_4.html">
+                                    Wind speed
+                                    <img src="/Visualizations/Fig4_Wind_speed_vs_latitude.png" class="img-fluid" alt="Responsive image">
+                                </a>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <a href="compare_global.html">
+                                    Global comparisons
+                                    <img src="/Visualizations/WeatherPy_Global_Comparisons.png" class="img-fluid" alt="Responsive image">
+                                </a>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <a href="compare_NH_SH.html">
+                                    NH/SH comparisons
+                                    <img src="/Visualizations/1x/Artboard_1.png" class="img-fluid" alt="Responsive image">
+                                </a>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <a href="data_page.html">
+                                    Data
+                                    <img src="/Visualizations/Table_thumbnail.png" class="img-fluid" alt="Responsive image">
+                                </a>                                        
+                            </a>
+                        </li>
+                    </ul>
+                </div>     
+            </nav>
+          
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-md-4">
+            <div class="mx-auto" style="position:absolute; left: 0px; top: 0px; right: 0px; bottom: 0px">
 
-          </div>
-        </li>
+                <figure class="figure">
+                    <a href="/Visualizations/map.png">
+                        <img src="/Visualizations/Map_detail.png" class="img-fluid" alt="Map">
+                        <p></p>
+                        <figcaption class="figure-caption"> ***Sorry for poor image quality, don't know how to quickly get a better one***. </figcaption>
+                        <p class="font-weight-bold"> Dots show cities used to generate figures, color-coded by relative humidity at the time of measurement.</p>
+                        <p>Green is dryest, red is moistest. </p>
+                </figure>
 
-      </ul>
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
-  </nav>
-<!-- Sidebar -->
-        <div class="container-fluid">
-            <div class="row">
-                <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
-                    <div class="sidebar-sticky pt-3">
-                        <ul class="nav flex-column">
-                            <li class="nav-item">
-                                <a class="nav-link active" href="#">
-                                    <a href="visualization_page_1.html">
-                                        Maximum temperature <span class="sr-only">(current)</span>
-                                         <img src="/Visualizations/Fig1_Max_temp_vs_latitude.png" class="img-fluid" alt="Responsive image">
-                                    </a>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">
-                                    <a href="visualization_page_2.html">
-                                        Relative humidity
-                                        <img src="/Visualizations/Fig2_Humidity_vs_latitude.png" class="img-fluid" alt="Responsive image">
-                                    </a>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">
-                                    <a href="visualization_page_3.html">
-                                        Cloudiness
-                                        <img src="/Visualizations/Fig3_Cloudiness_vs_latitude.png" class="img-fluid" alt="Responsive image">
-                                    </a>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">
-                                    <a href="visualization_page_4.html">
-                                        Wind speed
-                                        <img src="/Visualizations/Fig4_Wind_speed_vs_latitude.png" class="img-fluid" alt="Responsive image">
-                                    </a>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">
-                                     <a href="compare_global.html">
-                                        Global comparisons
-                                        <img src="/Visualizations/WeatherPy_Global_Comparisons.png" class="img-fluid" alt="Responsive image">
-                                    </a>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                              <a class="nav-link" href="#">
-                                   <a href="compare_NH_SH.html">
-                                      NH/SH comparisons
-                                      <img src="/Visualizations/1x/Artboard 1.png" class="img-fluid" alt="Responsive image">
-                                  </a>
-                              </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">
-                                    <a href="data_page.html">
-                                        Data
-                                        <!-- <img src="" class="img-fluid" alt="Responsive image"> -->
-                                    </a>                                        
-                                </a>
-                            </li>
-                        </ul>
-                      </div>     
-                  </nav
-              </div>             
-          </div>
-        <!-- Optional JavaScript -->
+
+            </p></p>
+                <h2>WeatherPy</h2>
+                <pclass="text-dark"></p>
+                <pclass="text-dark">***Don't yet understand how to control text colors, so far can't escape the blue without the dumb trick hidden in the next line.***</p>
+                <a href="https://pypi.python.org/pypi/citipy/"></a> 
+                <p class="text-dark">For this not very scientific study of global weather patterns, cities were first selected from the <a href="https://pypi.python.org/pypi/citipy/">Python 
+                    library Citipy</a> using randomly generated pairs of lat/long coordinates,  with the goal of collecting a list of at least 500 cities for which complete weather
+                    data were available. Weather data was acquired from the <a href="https://openweathermap.org/api">OpenWeatherMap API</a>. Note that data represents
+                    only a single timepoint on a single day; it will have been daytime in some places and nighttime in others. Of 628 cities in the original list, 582 were retained 
+                    following inspection for missing or unreliable-seeming values.</p>
+
+                </p>The results were then plotted to look for latitudinal trends in maximum temperature, relative humidity, cloudiness, and wind speed. From the thumbnails at the left, 
+                    it is already clear that only temperature varied in a relatively linear fashion from the equator to the poles. A few more details are discussed on the individual pages.
+                
+                </p>
+
+
+
+            </div> 
+        </main>            
+    </div>                 
+                
+          <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
